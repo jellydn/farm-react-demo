@@ -1,5 +1,7 @@
 import { useState } from "react";
+
 import "./main.css";
+import { Anime } from "./anime";
 import FarmLogo from "./assets/logo.png";
 import reactLogo from "./assets/react.svg";
 import { Button } from "./components/ui/button";
@@ -30,7 +32,7 @@ export function Main() {
 				</div>
 				<Card>
 					<CardHeader>
-						<CardTitle>Simple Counter</CardTitle>
+						<CardTitle>Counter</CardTitle>
 						<CardDescription>
 							Edit <code>src/main.tsx</code> and save to test HMR
 						</CardDescription>
@@ -44,9 +46,15 @@ export function Main() {
 						</Button>
 					</CardContent>
 				</Card>
-				<p className="read-the-docs">
-					Click on the Farm and React logos to learn more
-				</p>
+
+				<Card>
+					<CardHeader>
+						<CardTitle>Anime List</CardTitle>
+					</CardHeader>
+					<CardContent>
+						<Anime />
+					</CardContent>
+				</Card>
 			</main>
 		</div>
 	);
