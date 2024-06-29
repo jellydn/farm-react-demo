@@ -4,7 +4,7 @@ import "./index.css";
 
 const container = document.querySelector("#root");
 if (!container) {
-  throw new Error("No root element found");
+	throw new Error("No root element found");
 }
 const root = createRoot(container);
 
