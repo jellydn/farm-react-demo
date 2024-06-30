@@ -1,7 +1,15 @@
-<h1 align="center">Welcome to farm-react-app-demo 👋</h1>
+<h1 align="center">Welcome to farm-react-demo 👋</h1>
 <p>
   This is a demo project for FarmFe + React + TailwindCSS + @TanStack/Query + React-Hook-Form + TypeScript.
 </p>
+
+## Tech Stack
+
+- [Farm](https://www.farmfe.org/)
+- [React](https://reactjs.org/)
+- [TailwindCSS](https://tailwindcss.com/) with [shadcn/ui](https://ui.shadcn.com/)
+- [@TanStack/Query](https://react-query.tanstack.com/)
+- [React-Hook-Form](https://react-hook-form.com/)
 
 ## Install
 
