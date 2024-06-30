@@ -3,6 +3,8 @@
   This is a demo project for FarmFe + React + TailwindCSS + @TanStack/Query + React-Hook-Form + TypeScript.
 </p>
 
+[![IT Man - Boost Your Web Development Speed with Farm](https://i.ytimg.com/vi/NHfnwJ43KqE/hqdefault.jpg)](https://www.youtube.com/watch?v=NHfnwJ43KqE)
+
 ## Tech Stack
 
 - [Farm](https://www.farmfe.org/)
