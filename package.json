@@ -26,7 +26,7 @@
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
 		"@farmfe/cli": "1.0.4",
-		"@farmfe/core": "1.6.2",
+		"@farmfe/core": "1.6.3",
 		"@farmfe/js-plugin-postcss": "1.11.0",
 		"@farmfe/plugin-react": "1.2.6",
 		"@hookform/devtools": "4.3.3",
