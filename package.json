@@ -19,7 +19,7 @@
 		"lucide-react": "0.511.0",
 		"react": "19.1.0",
 		"react-dom": "19.1.0",
-		"react-hook-form": "7.56.4",
+		"react-hook-form": "7.57.0",
 		"tailwind-merge": "2.6.0",
 		"tailwindcss-animate": "1.0.7"
 	},
