@@ -12,8 +12,8 @@
 	"dependencies": {
 		"@radix-ui/react-avatar": "1.1.10",
 		"@radix-ui/react-slot": "1.2.3",
-		"@tanstack/react-query": "5.80.6",
-		"@tanstack/react-query-devtools": "5.80.6",
+		"@tanstack/react-query": "5.80.7",
+		"@tanstack/react-query-devtools": "5.80.7",
 		"class-variance-authority": "0.7.1",
 		"clsx": "2.1.1",
 		"lucide-react": "0.514.0",
@@ -31,11 +31,11 @@
 		"@farmfe/plugin-react": "1.2.6",
 		"@hookform/devtools": "4.4.0",
 		"@types/node": "22.15.31",
-		"@types/react": "19.1.7",
+		"@types/react": "19.1.8",
 		"@types/react-dom": "19.1.6",
 		"autoprefixer": "10.4.21",
 		"core-js": "3.43.0",
-		"postcss": "8.5.4",
+		"postcss": "8.5.5",
 		"react-refresh": "0.17.0",
 		"tailwindcss": "3.4.17"
 	}
