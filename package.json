@@ -12,14 +12,14 @@
 	"dependencies": {
 		"@radix-ui/react-avatar": "1.1.10",
 		"@radix-ui/react-slot": "1.2.3",
-		"@tanstack/react-query": "5.84.0",
-		"@tanstack/react-query-devtools": "5.84.0",
+		"@tanstack/react-query": "5.84.1",
+		"@tanstack/react-query-devtools": "5.84.1",
 		"class-variance-authority": "0.7.1",
 		"clsx": "2.1.1",
-		"lucide-react": "0.535.0",
+		"lucide-react": "0.536.0",
 		"react": "19.1.1",
 		"react-dom": "19.1.1",
-		"react-hook-form": "7.61.1",
+		"react-hook-form": "7.62.0",
 		"tailwind-merge": "2.6.0",
 		"tailwindcss-animate": "1.0.7"
 	},
