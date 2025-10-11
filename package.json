@@ -30,7 +30,7 @@
 		"@farmfe/js-plugin-postcss": "1.12.0",
 		"@farmfe/plugin-react": "1.2.6",
 		"@hookform/devtools": "4.4.0",
-		"@types/node": "22.18.9",
+		"@types/node": "22.18.10",
 		"@types/react": "19.2.2",
 		"@types/react-dom": "19.2.1",
 		"autoprefixer": "10.4.21",
