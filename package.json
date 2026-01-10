@@ -31,7 +31,7 @@
 		"@farmfe/plugin-react": "1.2.6",
 		"@hookform/devtools": "4.4.0",
 		"@types/node": "22.19.5",
-		"@types/react": "19.2.7",
+		"@types/react": "19.2.8",
 		"@types/react-dom": "19.2.3",
 		"autoprefixer": "10.4.23",
 		"core-js": "3.47.0",
