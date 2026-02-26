@@ -33,7 +33,7 @@
 		"@types/node": "22.19.11",
 		"@types/react": "19.2.14",
 		"@types/react-dom": "19.2.3",
-		"autoprefixer": "10.4.24",
+		"autoprefixer": "10.4.27",
 		"core-js": "3.48.0",
 		"postcss": "8.5.6",
 		"react-refresh": "0.18.0",
